@@ -52,17 +52,16 @@ This software suite will be broken into three parts :
 
 ### Installation
 
-1. Clone the repo
+1. Install dependencies
 
    ```sh
-    git clone git@github.com:EpitechPromo2024/
-    B-YEP-500-PAR-5-1-area-kylian.germain.git
+    yarn/npm install
    ```
 
-2. Run the script
+2. Run the app
 
    ```sh
-   bash run.sh
+   yarn/npm start
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
